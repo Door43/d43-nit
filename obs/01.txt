@@ -1,63 +1,65 @@
-====== 1. The Creation ======
+====== १ गेळीप्तीन ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
-सुरुवात दियाम  दुनियांन गेळीप्तीन आनी सबी जागात अघंर आंडीन सबी जागात इर आंडीन आनी इर पोदे दियामने आत्मा आंडीन।
+सुरुवात दियाम दुनियांन गेळीप्तीन आनी सबी जागात अघंर आंडीन सबी जागात इर आंडीन आनी इर पोदे दियामने आत्मा आंडीन।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?direct&}}
 
-दियाम मुट्टीन वेल्ग एर एन्तीन आनी वेल्ग एंदीन आनी दियामुग वेल्गगुन ओलत्ना ओव्‍वोल एन्तीन आनी इद पयला दिवोस। दियाम वेल्ग गेळीप्तीन। एरुळ वेलेंगुन पाते एन्नतीन अंघरुन सित्‍ते एन्तीन दियामुग कुशी वात्‍तीन।.
+दियाम मुट्टीन वेल्ग एर एन्तीन आनी वेल्ग एंदीन आनी दियामुग वेल्गगुन ओलत्ना ओव्‍वोल एन्तीन आनी इद पयला दिवोस। दियाम वेल्ग गेळीप्तीन। एरुळ वेलेंगुन पाते एन्नतीन अंघरुन सित्‍ते एन्तीन।
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&}}
 
-दुसरा दिवोस दियाम मुट्टीन आबार आनी इर इदींग बागुल एरेंग एन्नतीन आदून ओलत्ना दियाम ओवोल  एन्नतीन।{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?direct&}}
+दुसरा दिवोस दियाम गेळीप्तीन आनी मुट्टीन आबार आनी इर इदींग बागुल एरेंग एन्नतीन आनी इन्दीग बागुल एद्दीन।
 
-तिसरा दिवोस दियाम मुट्टीन,इरता जागा आलादे एरेग आनी कोरडे जागा आलादे एरेग आनी इरता जागान समुद्र एन्तीन। आनी कोरडे  जागन एल एन्तीन।,दियाम आदुन ओलतीना ओवोल एन्तीन।
+[[:lib:exe:fetch.php?tok=ebf04d&media=https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink&}}]]
+
+तिसरा दिवोस दियाम मुट्टीन,इरता जागा आलादे एरेग आनी कोरडे जागा आलादे एरेग आनी इरता जागान समुद्र एन्तीन। आनी कोरडे जागन एल एन्तीन।,दियाम आदुन ओलतीना ओवोल एन्तीन।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?direct&}}
 
+दियाम मुट्टीन आनी एन्तीन माकुल एरेंग आनी रेंगरेंगता फळ सियाका माकुल एददेव मरी दियाम ओलत्ना  तानेन गेडींप्तीन आदुन ओलत्ना ओवोल एन्तीन।
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?direct&}}
 
-On the fourth day of creation, God spoke and made the sun, the moon, and the stars. God made them to give light to the earth and to mark day and night, seasons and years. God saw that what he had created was good.
+चैथा दिवस दियाम मुट्टीन आनी पोद, नेला, सुककाल, दियाम गेळीप्तीन, दुनियाग वेलंग सियेंग पोद,सित्‍ते, इदाव,साल,रुतु आनाय गेळीपतीन,
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
-On the fifth day, God spoke and made everything that swims in the water and all the birds. God saw that it was good, and he blessed them.
+दियाम मुट्टीन आनी दियाम सेबुन गेळीप्तीन, ईर पीदे आनाका पिटटाल,आगास नेगायाकाव पिटटाल गेळीप्तीन। आनी दियाम ओव्वोल एन्तीन आनी आशिर्वाद सीयतीन।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?direct&}}
 
-On the sixth day of creation, God said, “Let there be all kinds of land animals!” And it happened just like God said. Some were farm animals, some crawled on the ground, and some were wild. And God saw that it was good.
+सावा दिवोस  दियाम इदाव गेळीप्तीन, दियाम मुट्टीन एलपोदे अनाकाव,अडावीत अनाकाव एल्त अनाकाव जनावसील,पाराका सेरकाव जनवरसील एरेंग एन्नतीन मरी अनाय एददीन आदवलून ओलत्ना दियाम ओवोल एन्तीन।{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?direct&}}
-
-Then God said, “Let us make human beings in our image to be like us. They will have authority over the earth and all the animals.”
+दियाम मुट्टीन आन्नेटलांग आन्ने निडालांग आन मासुन बेनापातुन, आनी दियाम मासुन एन्तीन दुनियाताव आनाकाव जनवरसील पोदे आदीकार इनुग सियातुन।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?direct&}}
 
-So God took some dirt, formed it into a man, and breathed life into him. This man’s name was Adam. God planted a garden where Adam could live, and put him there to care for it.
+दियाम ऊचुटे तुक गुमकातीन आनी मास बेनापतीन। आनी उपरी उन्तीन ना आम्दुन जाम वातीन। आनी आम्दुन आदाम पेर सितीन। दियाम बगीच्या बेनापतीन आनी बगीच्नात आम्दुन आपतीन।आनी आम्द आत्‍तीन  साबाळीपनेन।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?direct&}}
 
-In the middle of the garden, God planted two special trees—the tree of life and the tree of the knowledge of good and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would die.
+बगीचात दियाम इंदीगमाकुल बेनापतीन नाळुम जामाने माक आनी ओवोल आनी वाईटने ग्यान सियाका माक आन्डीन। दियाम आदामुंग इटतीन बगीचाताव नीव सबुन तिनेग सालातीव। गीनी ओवोल आनी वाईटने ग्यान सियाकादनेत माकने फळ तिनेम निव एकांदी  माकता फळुन तिन्दीवते तिकातीव।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?direct&}}
 
-Then God said, “It is not good for man to be alone.” But none of the animals could be Adam’s helper.
+दियाम मुट्टीन मास ओक्कोनी आनाकाद ओवोय तोतेद आनी जनवरसील मासुन मदत काकेंग सालेव।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?direct&}}
 
-So God made Adam fall into a deep sleep. Then God took one of Adam’s ribs and made it into a woman and brought her to him.
+दियाम आदामुन ओवोल मांगेग इट्टीन। आनी दियाम आम्ने पाकाटे बोकान पुस्तीन। आनी ओंक्को पिंल्ला बेनापतीन आदामुन साटी।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?direct&}}
 
-When Adam saw her, he said, “At last! This one is like me! Let her be called ‘Woman,’ for she was made from Man.” This is why a man leaves his father and mother and becomes one with his wife.
+आदाम अदद पिल्लांना ओलतेन आनी इन्नेत इदद आनेटलांग अंडाद, दियाम इदुन अन्नताट बेनाप्तीन अदुंगसाठी मांस बान बेकून सायत्‍तना पील्‍लान वेट्टा जोळील्त ताकदान।
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?direct&}}
 
-God made man and woman in his own image. He blessed them and told them, “Have many children and grandchildren and fill the earth!” And God saw that everything he had made was very good, and he was very pleased with all of it. This all happened on the sixth day of creation.
+दियाम्ने रुपलांग पेददा पिल्लान गेळीप्तीन,आनी आवरुन वेट्टा मुट्टीन गी। इम्मे बालासुला पेडीनेत पेडीग दुनियात वाडीलेंग एना आवरुंग  दियाम आशिर्वाद सितीन। आनी इदुन सबुन ओलत्ना दियांमुंग कुप कुसी वात्‍तीन,आनी आदाव सबी सहा दिवोस लोपाल गेळीपतीन।{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?direct&}}
+सातवा दिवोसुंग दियामने पानीकांकाद तिट्टीन,आनी दियाम आराम कात्‍तीन आनी आद सातवा दिवोसुन पीवत्र कातीन आनी अशिर्वाद सियतीन।
 
-When the seventh day came, God had finished his work. So God rested from all he had been doing. He blessed the seventh day and made it holy, because on this day he rested from his work. This is how God created the universe and everything in it.
+बायबलता गोट्टी। उत्‍पती :१-२
 
-//A Bible story from: Genesis 1-2//
+~~COMPLEX_TABLES~~
